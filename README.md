@@ -45,7 +45,7 @@ This project covers the complete workflow from individual component modeling to 
 
 * `Bolt/` — Bolt modeling files
 * `Nut/` — Nut modeling files
-* `Assembly/` — Assembly and constraint files
+* `Assembly/` — Assembly files
 * `Animation/` — Mechanism simulation/animation
 
 ## Tools
